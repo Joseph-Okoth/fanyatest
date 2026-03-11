@@ -18,3 +18,9 @@ An online exam proctoring application that monitors students during tasks to ens
 ### Photo Capture on Violation
 - Takes a picture of the student via their webcam when cheating behavior is detected
 - Stores captured images as evidence linked to the student's session
+
+### Full screen mode
+- Only access the exam page when on full screen mode and blank screen when minimized and logout the student from the main exam.
+
+### Eye move detection
+- Detect student's eye movement and logout if another device is detected on usage
